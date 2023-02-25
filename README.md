@@ -12,6 +12,11 @@
 произвести обновление базы данных.
 
 ![image](https://user-images.githubusercontent.com/125668287/221357632-a7a5f452-565f-41cf-8751-cb1d11e6340a.png)
+
 выбор конечной валюты
+
+![image](https://user-images.githubusercontent.com/125668287/221357735-0670c640-5ea7-4dcd-8eda-4afa854d3d4e.png)
+
+пример перевода в Доллар США
 
 
